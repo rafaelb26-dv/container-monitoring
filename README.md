@@ -21,7 +21,7 @@ Para rodar esse projeto basta usar esse comando no terminal:
 ## Mão na massa
 
 
-Agora precisamos adicionar os dashboards interativos no Grafana
+Agora precisamos adicionar os dashboards interativos no Grafana.
 Vamos criar primeiro o dashboard para monitorar os Conainters:
 
 
