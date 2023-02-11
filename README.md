@@ -64,6 +64,10 @@ Segue o link do Dashboard: https://grafana.com/grafana/dashboards/12486-node-exp
 
 ![](https://github.com/rafaelb26-dv/container-monitoring/blob/main/images/Linux.gif)
 
+Qualquer duvida, me mandem uma mensagem no Linkedin, farei questão de responder! :)
+
+https://www.linkedin.com/in/rafael-bastos-a53a481b6/
+
 
 
 
