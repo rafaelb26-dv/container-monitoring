@@ -40,7 +40,7 @@ Vai ate o final da pagina e clique em "Save & test"
 
 
 5 -> Agora temos que adicionar o nosso dashboard
-Acess o site: https://grafana.com/grafana/dashboards/15331-docker-container-dashboard/
+Acesse o site: https://grafana.com/grafana/dashboards/15331-docker-container-dashboard/
 Clique em "Copy ID to clipeboard"
 ![alt text](/images/Image05.png)
 
@@ -57,6 +57,8 @@ E voilà temos nosso dashboarb bonitão pra monitorar nossos containers
 
 Para adicionar o Dashboard para monitorar o servidor Linux, repita os passos começando da parte "4"
 Segue o link do Dashboard: https://grafana.com/grafana/dashboards/12486-node-exporter-full/
+
+![](https://github.com/rafaelb26-dv/container-monitoring/blob/main/images/Linux.gif)
 
 
 
