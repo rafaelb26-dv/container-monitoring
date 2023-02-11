@@ -1,0 +1,9 @@
+{
+  "name": "container-monitoring",
+  "version": "1.0.0",
+  "license": "Proprietary",
+  "scripts": {
+    "make-docker-container": "docker-compose up -d --build"
+  },
+ "author": "Rafael B. de Sousa"
+}
