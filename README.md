@@ -13,7 +13,8 @@ Grafana -> Ferramenta apra exibir metricas através de uma interface mais intera
 Para rodar esse projeto basta usar esse comando no terminal:
 "docker-compose up -d --build"
 
-![Screenshot](sala.png)
+![sala.png](sala.png)
+
 
 
 
