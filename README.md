@@ -22,7 +22,7 @@ Para rodar esse projeto basta usar esse comando no terminal:
 
 
 Agora precisamos adicionar os dashboards interativos no Grafana.
-Vamos criar primeiro o dashboard para monitorar os Conainters:
+Vamos criar primeiro o dashboard para monitorar os Containers:
 
 
 1 -> Acesse http://localhost:3000
@@ -30,8 +30,8 @@ usuario do grafana: admin
 senha: admin
 ![alt text](/images/Image01.png)
 
-2 -> Clique em Add yout firt data source
-Escolha o "Grafana"
+2 -> Clique em Add yout first data source
+Escolha o "prometheus"
 ![alt text](/images/Image02.png)
 
 3 -> Em URL digite: http://localhost:9090
@@ -67,11 +67,5 @@ Segue o link do Dashboard: https://grafana.com/grafana/dashboards/12486-node-exp
 Qualquer duvida, me mandem uma mensagem no Linkedin, farei questão de responder! :)
 
 https://www.linkedin.com/in/rafael-bastos-a53a481b6/
-
-
-
-
-
-
 
 
